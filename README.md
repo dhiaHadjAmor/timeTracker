@@ -25,13 +25,13 @@ Tasks Listing
 
 # Run 
 
-# With Docker 
+## With Docker 
 
 `docker-compose build`
 then
 `docker-compose up`
 
-# With NPM 
+## With NPM 
 
 `npm install`
 then
