@@ -41,6 +41,7 @@ The app will be running at [http://localhost:3000](http://localhost:3000)
 
 # This Experience
 
-I spent 8 hours working on this app , it's the first time i work with docker so it was a good occasion to explore it and dockerise the app .
-I did like working with Javascript technologies , dockerising the app 
-I wish i spend a little much time styling my view , i know it's very bad ! 
+- I spent 8 hours working on this app , it's the first time i work with docker so it was a good occasion to explore it and dockerise the app .
+- I did like working with Javascript technologies , dockerising the app 
+- I wish i spend a little much time styling my view , i know it's very bad !
+- I didn't use redux for data management  , i just used axios because of the simplicity of data and API .
